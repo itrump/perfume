@@ -1,1 +1,1 @@
-- [Linux IOÄ£Ê½¼° select¡¢poll¡¢epollÏê½â](https://segmentfault.com/a/1190000003063859)
+- [Linux IOæ¨¡å¼åŠ selectã€pollã€epollè¯¦è§£](https://segmentfault.com/a/1190000003063859)
