@@ -25,3 +25,6 @@
 
 # Others
 - [人类首次直接探测到了引力波](http://36kr.com/p/5097725.html)
+- [毛泽东选集](https://www.marxists.org/chinese/maozedong/index.htm)
+- [毛泽东选集 第五卷](http://marx.xmu.edu.cn/_upload/article/files/5f/bb/f1e5c0864ef7bf7fcda536af9039/8fd5467a-d0ee-4a7f-bd79-4a209572fcd3.pdf)
+- [毛泽东著作](http://www.mzdbl.cn/maoxuan/index.html)
