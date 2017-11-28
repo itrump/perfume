@@ -34,6 +34,15 @@
 
 # Tools
 - [这些git技能够你用一年了](http://www.cnblogs.com/pyer/p/4752770.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [如果你用GitHub，可以这样提高效率](http://huang-jerryc.com/2016/01/15/如果你用GitHub，可以这样提高效率/)
+- [cercleci](https://circleci.com)
+
+## Network tools
+- [ssr mac](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)
+- [ssr mac](https://github.com/yichengchen/ShadowsocksX-R/releases)
+- [windows/mac/ios/android tutorial](https://www.i5seo.com/windows-mac-ios-android-settings-using-the-ss-ssr-tutorial-client-download/)
+- [ssr wiki](https://github.com/shadowsocksrr/shadowsocks-rss/wiki)
+- [ssr clients and server](https://dcamero.azurewebsites.net/shadowsocksr.html)
 
 # Others
 - [人类首次直接探测到了引力波](http://36kr.com/p/5097725.html)
