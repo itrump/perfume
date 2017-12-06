@@ -47,6 +47,10 @@
 - [windows/mac/ios/android tutorial](https://www.i5seo.com/windows-mac-ios-android-settings-using-the-ss-ssr-tutorial-client-download/)
 - [ssr wiki](https://github.com/shadowsocksrr/shadowsocks-rss/wiki)
 - [ssr clients and server](https://dcamero.azurewebsites.net/shadowsocksr.html)
+- [Shadowsocks 源码分析——协议与结构](https://loggerhead.me/posts/shadowsocks-yuan-ma-fen-xi-xie-yi-yu-jie-gou.html)
+- [Shadowsocks 源码分析——TCP 代理](https://loggerhead.me/posts/shadowsocks-yuan-ma-fen-xi-tcp-dai-li.html)
+- [Shadowsocks 源码分析——超时处理](https://loggerhead.me/posts/shadowsocks-yuan-ma-fen-xi-chao-shi-chu-li.html)
+- [Shadowsocks 源码分析——UDP 代理](https://loggerhead.me/posts/shadowsocks-yuan-ma-fen-xi-udp-dai-li.html)
 
 # Others
 - [人类首次直接探测到了引力波](http://36kr.com/p/5097725.html)
