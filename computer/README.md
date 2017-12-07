@@ -51,6 +51,7 @@
 - [Shadowsocks 源码分析——TCP 代理](https://loggerhead.me/posts/shadowsocks-yuan-ma-fen-xi-tcp-dai-li.html)
 - [Shadowsocks 源码分析——超时处理](https://loggerhead.me/posts/shadowsocks-yuan-ma-fen-xi-chao-shi-chu-li.html)
 - [Shadowsocks 源码分析——UDP 代理](https://loggerhead.me/posts/shadowsocks-yuan-ma-fen-xi-udp-dai-li.html)
+- [Shadowsocks-go源码分析](http://www.cos30.com/2017/09/07/Shadowsocks%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)
 
 # Others
 - [人类首次直接探测到了引力波](http://36kr.com/p/5097725.html)
