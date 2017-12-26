@@ -42,6 +42,10 @@
 ## Gitbooks
 - [boost asio tutorial](https://mmoaay.gitbooks.io/boost-asio-cpp-network-programming-chinese/content/Chapter1.html)
 
+## Tech
+- [网游加速器原理、技术与实现](http://blog.csdn.net/kidwei/article/details/8559842)
+- [网游加速器原理、技术与实现](https://www.cnblogs.com/chengxuyuandashu/p/3801490.html)
+
 ## Network tools
 - [ssr mac](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)
 - [ssr mac](https://github.com/yichengchen/ShadowsocksX-R/releases)
