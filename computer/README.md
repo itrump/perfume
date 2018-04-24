@@ -24,6 +24,7 @@
 - [谁是最快的Go Web框架](http://colobu.com/2016/04/06/the-fastest-golang-web-framework/)
 - [Tour of go](https://tour.go-zh.org/welcome/1)
 - [深入解析Go](https://tiancaiamao.gitbooks.io/go-internals/content/zh/)
+- [go web gitbook](https://astaxie.gitbooks.io/build-web-application-with-golang/en/07.3.html)
 
 ## Protocol
 - [从零构建TCP/IP协议（这次叫PCT协议）](https://jiajunhuang.com/articles/2017_08_12-tcp_ip.md.html)
