@@ -26,6 +26,12 @@
 - [深入解析Go](https://tiancaiamao.gitbooks.io/go-internals/content/zh/)
 - [go web gitbook](https://astaxie.gitbooks.io/build-web-application-with-golang/en/07.3.html)
 
+ - [golang learning tutorial 01](https://github.com/golang/go/wiki/Learn)
+ - [golang learning tutorial 02](https://tour.golang.org/welcome/1)
+ - [golang learning tutorial 03](https://hackr.io/tutorials/learn-golang)
+ - [golang learning tutorial 04](https://www.quora.com/What-are-the-best-online-resources-for-learning-Go-programming-language)
+ - [golang learning tutorial 05](https://github.com/qyuhen/book)
+
 ## Protocol
 - [从零构建TCP/IP协议（这次叫PCT协议）](https://jiajunhuang.com/articles/2017_08_12-tcp_ip.md.html)
 - [从零构建TCP/IP协议（二）连接，断开与拥塞控制](https://jiajunhuang.com/articles/2017_09_02-tcp_ip_part2.md.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
