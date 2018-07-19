@@ -9,4 +9,5 @@
 
 
 ### vpn marketing
- = [nordvpn ad](https://nordcn.info/)
+ - [nordvpn ad](https://nordcn.info/)
+ - [ssr compile guide](https://la4ji.blogspot.com/2017/09/pac-for-ssr-win-470.html)
