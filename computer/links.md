@@ -13,3 +13,6 @@
  - [nordvpn ad](https://nordcn.info/)
  - [ssr compile guide](https://la4ji.blogspot.com/2017/09/pac-for-ssr-win-470.html)
  - [ssr csharp](https://github.com/ShadowsocksR-Live/shadowsocksr-csharp)
+
+### git usage
+ - [change git history commit message](https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-one-specific-commit)
