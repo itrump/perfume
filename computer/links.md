@@ -11,6 +11,11 @@
  - [ios swift language tutorial](https://codewithchris.com/learn-swift/)
  - [ios swift ui lib](https://medium.mybridge.co/39-open-source-swift-ui-libraries-for-ios-app-development-da1f8dc61a0f)
  - [swift tutorial](https://www.tutorialspoint.com/swift/index.htm)
+ - [learn swift](https://www.appcoda.com/learnswift/)
+ - [swift calculator demo](https://www.youtube.com/watch?v=AG2QDwmj64A)
+ - [mac file uploader demo](https://www.appcoda.com/macos-image-uploader-app/)
+ - [swift simple demo](https://www.raywenderlich.com/411-core-graphics-tutorial-part-1-getting-started)
+ - [swift language grammer](https://carlosicaza.com/swiftbooks/SwiftLanguage.pdf)
 
 
 ### vpn marketing
