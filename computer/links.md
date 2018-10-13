@@ -20,6 +20,8 @@
  - [swift github resource](https://github.com/Lax/iOS-Swift-Demos)
  - [apple official developer documentation archive](https://developer.apple.com/library/archive/navigation/)
 
+ - [mac swift tutorial for beginners](https://www.raywenderlich.com/731-macos-development-for-beginners-part-1)
+
 
 ### vpn marketing
  - [nordvpn ad](https://nordcn.info/)
