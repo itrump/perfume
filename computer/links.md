@@ -30,3 +30,7 @@
 
 ### git usage
  - [change git history commit message](https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-one-specific-commit)
+
+### Wechat app
+ - [runoob.com](https://www.runoob.com/w3cnote/wx-xcx-repo.html)
+ - [wechat app resource](https://github.com/justjavac/awesome-wechat-weapp)
