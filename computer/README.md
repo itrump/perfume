@@ -76,3 +76,7 @@
 - [毛泽东选集](https://www.marxists.org/chinese/maozedong/index.htm)
 - [毛泽东选集 第五卷](http://marx.xmu.edu.cn/_upload/article/files/5f/bb/f1e5c0864ef7bf7fcda536af9039/8fd5467a-d0ee-4a7f-bd79-4a209572fcd3.pdf)
 - [毛泽东著作](http://www.mzdbl.cn/maoxuan/index.html)
+
+## Trade
+ - [我的交易系统](https://www.bilibili.com/video/av67568968/?spm_id_from=333.788.videocard.0)
+ - [科威夫操盘教程](https://www.bilibili.com/video/av36387786/?p=2)
